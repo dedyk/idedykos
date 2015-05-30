@@ -1,0 +1,1 @@
+My small operation system: iDedykOS
